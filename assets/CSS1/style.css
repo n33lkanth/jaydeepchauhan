@@ -48,7 +48,7 @@ body.dark {
     ---main-work-hover: #ffffff;
     ---main-work-hover-text: #000000;
     ---main-work-btn-hover-bg: #000000;
-    --footer-bg: #1d2f4b;
+    --footer-bg: #b475df;
     ---footer-text-color-main: #d8d5d5;
     --footer-hover: var(---main-color);
     ---footer-heading-color: #a4a2a2;
@@ -77,7 +77,7 @@ body.dark {
     --inherit: inherit;
     --font-weight: 500;
     /*Lights Colors*/
-    ---main-color: #7743DB !important;
+    ---main-color: #3b108b !important;
     --background: #FFFBF5;
     ---text-color: #000000;
     --nav-brand: -webkit-linear-gradient(289deg, #452f87, #763582, #01a2ce, #13317a);
@@ -93,11 +93,11 @@ body.dark {
     ---main-work-hover: #000000;
     ---main-work-hover-text: #ffffff;
     ---main-work-btn-hover-bg: #ffffff;
-    --footer-bg: #1d2f4b;
-    ---footer-text-color-main: #d8d5d5;
+    --footer-bg: #aa7ff0 !important;
+    ---footer-text-color-main: #420f0f !important;
     --footer-hover: var(---main-color);
-    ---footer-heading-color: #a4a2a2;
-    --scroolbar-thumb-color: #3034f899;
+    ---footer-heading-color: #000000 !important;
+    --scroolbar-thumb-color: #3034f899 !important;
 }
 
 ::-webkit-scrollbar {
